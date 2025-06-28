@@ -46,7 +46,7 @@ To solve the task efficiently, the following pipeline was implemented:
 
 ##  Example Output
 
-Given the image below:
-![Sample Weighing Scale](image.png)
+Given the image below:![image-3](https://github.com/user-attachments/assets/c540acaa-345b-404c-af57-f62266505c19)
 
-The console output will be:
+
+The console output will be: 3.92
